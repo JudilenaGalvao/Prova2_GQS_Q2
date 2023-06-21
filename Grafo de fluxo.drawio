@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-21T21:58:00.127Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="WRxbrkDqrvC8gh_gkXHM" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-21T21:58:46.107Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="0P04nieEKW5GTJgDXm9z" version="21.3.5" type="github">
   <diagram name="Página-1" id="stOZ8vv3_0zphP-TTRIV">
     <mxGraphModel dx="880" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,6 +9,14 @@
         </mxCell>
         <mxCell id="mi2eITRY8y9FXgRbKsPs-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mi2eITRY8y9FXgRbKsPs-2" target="mi2eITRY8y9FXgRbKsPs-4">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mi2eITRY8y9FXgRbKsPs-15" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;curved=1;" edge="1" parent="1" source="mi2eITRY8y9FXgRbKsPs-2" target="mi2eITRY8y9FXgRbKsPs-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="60" />
+              <mxPoint x="610" y="300" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="mi2eITRY8y9FXgRbKsPs-2" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="480" y="40" width="40" height="40" as="geometry" />
