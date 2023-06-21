@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-21T23:17:16.232Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="TSFE9zFTEwpOz5KxJWwS" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-21T23:17:55.831Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="GZHrkCGpwmjmdkFk1cX5" version="21.3.5" type="github">
   <diagram name="Página-1" id="gHFN58mkD_PLUvRyELKJ">
     <mxGraphModel dx="880" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,6 +6,12 @@
         <mxCell id="1" parent="0" />
         <mxCell id="jU_Hz3wzQd2dTp-uLBH3-1" value="&lt;font color=&quot;#994c00&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;Problema 2&lt;/b&gt;: Compra no debito ou credito&lt;br&gt;&lt;br&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;1-&lt;/font&gt;&lt;font face=&quot;Verdana&quot; color=&quot;#994c00&quot;&gt;saldoCredito = 0;&lt;/font&gt;&lt;font color=&quot;#994c00&quot; face=&quot;Verdana&quot;&gt;&lt;div&gt;&amp;nbsp;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/span&gt;&lt;/span&gt;debito = 100;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;resul;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;valorCompra = 50;&lt;/div&gt;&lt;br&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;2- deseja comprar no debito ou credito? d = debito/ &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;c = credito.&lt;br&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;3- Media das somas das 4 provas é maior ou igual a&amp;nbsp;&lt;br&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;4- Passou&lt;br&gt;&amp;nbsp; &amp;nbsp; 5 - Reprovou&lt;br&gt;&amp;nbsp; &amp;nbsp; 6 - fim-se&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="55" width="350" height="285" as="geometry" />
+        </mxCell>
+        <mxCell id="jU_Hz3wzQd2dTp-uLBH3-2" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="560" y="40" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jU_Hz3wzQd2dTp-uLBH3-3" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="560" y="120" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
